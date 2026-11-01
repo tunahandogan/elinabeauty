@@ -31,7 +31,7 @@ export const business = {
   },
   geo: { lat: 39.8780831, lng: 41.2441018, plusCode: "V6HV+6J Palandöken, Erzurum" },
   /** Anahtarsız Google Maps gömme adresi (iframe) */
-  mapEmbedUrl: "https://www.google.com/maps?q=Elina+Beauty+Studio,+Kervansaray+AVM,+Erzurum&output=embed",
+  mapEmbedUrl: "https://www.google.com/maps?q=39.8780831,41.2441018&z=17&output=embed",
   instagram: {
     handle: "@elinaabeautystudio",
     url: "https://www.instagram.com/elinaabeautystudio/",
